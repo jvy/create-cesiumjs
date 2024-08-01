@@ -1,0 +1,6 @@
+{
+  "devDependencies": {
+    "eslint-plugin-cypress": "^2.15.2",
+    "eslint-plugin-playwright": "^1.6.0"
+  }
+}
