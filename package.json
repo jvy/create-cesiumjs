@@ -1,6 +1,6 @@
 {
   "name": "create-cesiumjs",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "description": "The recommended way to start a Vite-powered CesiumJS project",
   "type": "module",
   "packageManager": "pnpm@9.0.5",
@@ -26,15 +26,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/vuejs/create-vue.git"
+    "url": "git+https://github.com/jvy/create-cesiumjs.git"
   },
   "keywords": [],
-  "author": "Haoqun Jiang <haoqunjiang+npm@gmail.com>",
+  "author": "JVY <jvy+jvy@qq.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/vuejs/create-vue/issues"
+    "url": "https://github.com/jvy/create-cesiumjs/issues"
   },
-  "homepage": "https://github.com/vuejs/create-vue#readme",
+  "homepage": "https://github.com/jvy/create-cesiumjs#readme",
   "devDependencies": {
     "@tsconfig/node20": "^20.1.4",
     "@types/eslint": "^8.56.10",

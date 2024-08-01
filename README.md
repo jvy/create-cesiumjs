@@ -1,9 +1,9 @@
-# create-cesiumjs <a href="https://npmjs.com/package/create-cesiumjs">reate-cesiumjs</a>
+# create-cesiumjs <a href="https://npmjs.com/package/create-cesiumjs">create-cesiumjs</a>
 
 The recommended way to start a Vite-powered CesiumJS project
 
 <p align="center">
-  <img src="https://github.com/vuejs/create-cesiumjs/blob/main/media/screenshot-cli.png?raw=true" width="802">
+  <img src="https://github.com/CesiumGS/cesium/wiki/logos/Cesium_Logo_Color.jpg" width="802">
 </p>
 
 ## 使用方法
